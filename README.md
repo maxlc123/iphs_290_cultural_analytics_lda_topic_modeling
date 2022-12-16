@@ -1,2 +1,2 @@
 # iphs_290_cultural_analytics_lda_topic_modeling
-This is my analysis of ___ using LDA Topic Modeling
+This course introduced methods to work with different and popular composite datatypes including geospatial, time series, and network graphs. These big 3 composite data types each have distinct internal structure on spatial, temporal or semantic correlations. Each of these data types have their own distinctive methods, libraries, and critiques which I explored via leading academic DH scholarship and practical technical implementations.
